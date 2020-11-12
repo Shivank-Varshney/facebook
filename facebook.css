@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #f0f2f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main-row{
+    margin-top: 176px;
+}
+#main-col-left{
+   color: none;
+}
+#main-col-left-sub{
+    padding: 0 0 0 29px;
+}
+#main-col-left-sub h2{
+    color: #1C1E21;
+    line-height: 32px;
+    font-size: 28px;
+    padding: 0 0 0 28px;
+    margin: -8px 0 0 0;
+}
+#main-col-right{
+    background-color: white;
+    margin: -44px 92px 0 0;
+    width: 396px;
+    height: 345px;
+    border-radius: 8px;
+}
+#main-col-right input{
+    caret-color: #1877f2;
+}
+#main-col-right input::placeholder{
+    color: #9094a9;
+    font-size: medium;
+}
+#main-col-right .btn{
+    font-weight: bolder;
+}
+#main-col-right a{
+    font-size: 14px;
+    margin-top: 20px;
+}
+#link{
+    margin-top: 15px;
+}
+#main-col-right hr{
+    margin-top: 18px;
+}
+#secondbtn{
+    background-color: #36a420;
+    color: white;
+    margin: 10px 0 0 80px;
+    font-size: large;
+}
+#afterformtext p{
+    color: black;
+    font-size: 14px;
+}
+#afterformtext a{
+    color: black;
+    font-weight: bolder;
+}
